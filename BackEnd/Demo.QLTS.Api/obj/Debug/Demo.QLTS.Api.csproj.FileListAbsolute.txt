@@ -185,3 +185,4 @@ D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Api\obj\Debug\refint\Demo.QLTS.Api.dll
 D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Api\obj\Debug\Demo.QLTS.Api.pdb
 D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Api\obj\Debug\Demo.QLTS.Api.genruntimeconfig.cache
 D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Api\obj\Debug\ref\Demo.QLTS.Api.dll
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Api\obj\Debug\Demo.QLTS.Api.sourcelink.json

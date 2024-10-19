@@ -137,8 +137,7 @@
               "RelativeToolTip": "Demo.QLTS.Core\\Entities\\ServiceResult.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBQwAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:47:31.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:47:31.621Z"
             },
             {
               "$type": "Document",
@@ -150,8 +149,7 @@
               "RelativeToolTip": "Demo.QLTS.Core\\Services\\ImportService.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAIBJwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:35:14.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:35:14.488Z"
             },
             {
               "$type": "Document",
@@ -163,8 +161,7 @@
               "RelativeToolTip": "Demo.QLTS.Core\\Entities\\ErrorMessage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:47:24.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:47:24.936Z"
             },
             {
               "$type": "Document",
@@ -176,8 +173,7 @@
               "RelativeToolTip": "Demo.QLTS.Infrastructure\\Repository\\ImportRepository.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAewDQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:35:22.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:35:22.618Z"
             },
             {
               "$type": "Document",
@@ -189,8 +185,7 @@
               "RelativeToolTip": "Demo.QLTS.Api\\Api\\ImportController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAewDoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:35:04.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:35:04.597Z"
             },
             {
               "$type": "Document",
@@ -202,8 +197,7 @@
               "RelativeToolTip": "Demo.QLTS.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-08T14:44:39.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:44:39.394Z"
             },
             {
               "$type": "Document",
@@ -215,8 +209,7 @@
               "RelativeToolTip": "Demo.QLTS.Core\\Interfaces\\Services\\IImportService.cs",
               "ViewState": "AgIAABUAAAAAAAAAAIBQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:47:58.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:47:58.74Z"
             },
             {
               "$type": "Document",
@@ -228,8 +221,7 @@
               "RelativeToolTip": "Demo.QLTS.Core\\Interfaces\\Repository\\IBaseRepository.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:47:46.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:47:46.954Z"
             },
             {
               "$type": "Document",
@@ -241,8 +233,7 @@
               "RelativeToolTip": "Demo.QLTS.Core\\Interfaces\\Repository\\IImportRepository.cs",
               "ViewState": "AgIAACEAAAAAAAAAAIBQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:47:51.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:47:51.399Z"
             },
             {
               "$type": "Document",
@@ -254,8 +245,7 @@
               "RelativeToolTip": "Demo.QLTS.Core\\Interfaces\\Services\\IBaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:47:57.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:47:57.092Z"
             },
             {
               "$type": "Document",
@@ -267,8 +257,7 @@
               "RelativeToolTip": "Demo.QLTS.Core\\Services\\BaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:48:10.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:48:10.335Z"
             },
             {
               "$type": "Document",
@@ -280,8 +269,7 @@
               "RelativeToolTip": "Demo.QLTS.Api\\Startup.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:47:11.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:47:11.93Z"
             },
             {
               "$type": "Document",
@@ -293,8 +281,7 @@
               "RelativeToolTip": "Demo.QLTS.Api\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:47:05.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:47:05.606Z"
             },
             {
               "$type": "Document",
@@ -306,8 +293,7 @@
               "RelativeToolTip": "Demo.QLTS.Core\\Entities\\DemoQLTSDatabaseSettings.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAADwvwsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:45:52.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:45:52.912Z"
             },
             {
               "$type": "Document",
@@ -319,8 +305,7 @@
               "RelativeToolTip": "Demo.QLTS.Core\\Entities\\QLTSAttribute.cs",
               "ViewState": "AgIAABIAAAAAAAAAAIBJwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:35:54.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T14:35:54.959Z"
             }
           ]
         }

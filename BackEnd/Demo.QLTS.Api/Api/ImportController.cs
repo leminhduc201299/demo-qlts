@@ -40,6 +40,7 @@ namespace Demo.QLTS.Api.Api
             catch (Exception ex)
             {
                 serviceResult.Success = false;
+                serviceResult.DevMsg = ex.Message;
 
                 return serviceResult;
             }
@@ -63,6 +64,7 @@ namespace Demo.QLTS.Api.Api
             catch (Exception ex)
             {
                 serviceResult.Success = false;
+                serviceResult.DevMsg = ex.Message;
 
                 return serviceResult;
             }
@@ -86,6 +88,7 @@ namespace Demo.QLTS.Api.Api
             catch (Exception ex)
             {
                 serviceResult.Success = false;
+                serviceResult.DevMsg = ex.Message;
 
                 return serviceResult;
             }
@@ -108,11 +111,8 @@ namespace Demo.QLTS.Api.Api
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message);
-
-                Console.WriteLine(ex.ToString());
-
                 serviceResult.Success = false;
+                serviceResult.DevMsg = ex.Message;
 
                 return serviceResult;
             }
