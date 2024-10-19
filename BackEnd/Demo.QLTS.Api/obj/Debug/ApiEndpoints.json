@@ -1,0 +1,105 @@
+[
+  {
+    "ContainingType": "Demo.QLTS.Api.Api.ImportController",
+    "Method": "InsertImport",
+    "RelativePath": "api/v1/Import",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "importDetail",
+        "Type": "Demo.QLTS.Core.Entities.ImportDetail",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Demo.QLTS.Core.Entities.ServiceResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Demo.QLTS.Api.Api.ImportController",
+    "Method": "SearchImport",
+    "RelativePath": "api/v1/Import",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "textSearch",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Demo.QLTS.Core.Entities.ServiceResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Demo.QLTS.Api.Api.ImportController",
+    "Method": "DeleteImport",
+    "RelativePath": "api/v1/Import",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vote",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "materialCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Demo.QLTS.Core.Entities.ServiceResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Demo.QLTS.Api.Api.ImportController",
+    "Method": "Test",
+    "RelativePath": "api/v1/Import/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Demo.QLTS.Core.Entities.ServiceResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

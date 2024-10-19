@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Linkedin\\k8s\\code\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Demo.QLTS.Api\\Demo.QLTS.Api.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.api\\demo.qlts.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Demo.QLTS.Api\\Demo.QLTS.Api.csproj|solutionrelative:demo.qlts.api\\demo.qlts.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE7DD7E-40C7-41D6-896F-B942B846C1A6}|Demo.QLTS.Infrastructure\\Demo.QLTS.Infrastructure.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.infrastructure\\demo.qlts.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BE7DD7E-40C7-41D6-896F-B942B846C1A6}|Demo.QLTS.Infrastructure\\Demo.QLTS.Infrastructure.csproj|solutionrelative:demo.qlts.infrastructure\\demo.qlts.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.core\\demo.qlts.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|solutionrelative:demo.qlts.core\\demo.qlts.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.core\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|solutionrelative:demo.qlts.core\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.core\\interfaces\\services\\iimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|solutionrelative:demo.qlts.core\\interfaces\\services\\iimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Demo.QLTS.Api\\Demo.QLTS.Api.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Demo.QLTS.Api\\Demo.QLTS.Api.csproj|solutionrelative:demo.qlts.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Demo.QLTS.Api\\Demo.QLTS.Api.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.api\\api\\importcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Demo.QLTS.Api\\Demo.QLTS.Api.csproj|solutionrelative:demo.qlts.api\\api\\importcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE7DD7E-40C7-41D6-896F-B942B846C1A6}|Demo.QLTS.Infrastructure\\Demo.QLTS.Infrastructure.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.infrastructure\\repository\\importrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE7DD7E-40C7-41D6-896F-B942B846C1A6}|Demo.QLTS.Infrastructure\\Demo.QLTS.Infrastructure.csproj|solutionrelative:demo.qlts.infrastructure\\repository\\importrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.core\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|solutionrelative:demo.qlts.core\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.core\\interfaces\\services\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|solutionrelative:demo.qlts.core\\interfaces\\services\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.core\\interfaces\\repository\\iimportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|solutionrelative:demo.qlts.core\\interfaces\\repository\\iimportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.core\\interfaces\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|solutionrelative:demo.qlts.core\\interfaces\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.core\\entities\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|solutionrelative:demo.qlts.core\\entities\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.core\\entities\\qltsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|solutionrelative:demo.qlts.core\\entities\\qltsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.core\\entities\\errormessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|solutionrelative:demo.qlts.core\\entities\\errormessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.core\\entities\\demoqltsdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Demo.QLTS.Core\\Demo.QLTS.Core.csproj|solutionrelative:demo.qlts.core\\entities\\demoqltsdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Demo.QLTS.Api\\Demo.QLTS.Api.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Demo.QLTS.Api\\Demo.QLTS.Api.csproj|solutionrelative:demo.qlts.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Demo.QLTS.Api\\Demo.QLTS.Api.csproj|d:\\linkedin\\k8s\\code\\backend\\demo.qlts.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Demo.QLTS.Api\\Demo.QLTS.Api.csproj|solutionrelative:demo.qlts.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo.QLTS.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Infrastructure\\Demo.QLTS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Demo.QLTS.Infrastructure\\Demo.QLTS.Infrastructure.csproj",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Infrastructure\\Demo.QLTS.Infrastructure.csproj",
+              "RelativeToolTip": "Demo.QLTS.Infrastructure\\Demo.QLTS.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T03:17:50.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo.QLTS.Core.csproj",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Demo.QLTS.Core.csproj",
+              "RelativeDocumentMoniker": "Demo.QLTS.Core\\Demo.QLTS.Core.csproj",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Demo.QLTS.Core.csproj",
+              "RelativeToolTip": "Demo.QLTS.Core\\Demo.QLTS.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T03:17:47.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo.QLTS.Api.csproj",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Api\\Demo.QLTS.Api.csproj",
+              "RelativeDocumentMoniker": "Demo.QLTS.Api\\Demo.QLTS.Api.csproj",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Api\\Demo.QLTS.Api.csproj",
+              "RelativeToolTip": "Demo.QLTS.Api\\Demo.QLTS.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T03:17:43.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Entities\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Core\\Entities\\ServiceResult.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Entities\\ServiceResult.cs",
+              "RelativeToolTip": "Demo.QLTS.Core\\Entities\\ServiceResult.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBQwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:47:31.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportService.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Services\\ImportService.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Core\\Services\\ImportService.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Services\\ImportService.cs",
+              "RelativeToolTip": "Demo.QLTS.Core\\Services\\ImportService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAIBJwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:35:14.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorMessage.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Entities\\ErrorMessage.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Core\\Entities\\ErrorMessage.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Entities\\ErrorMessage.cs",
+              "RelativeToolTip": "Demo.QLTS.Core\\Entities\\ErrorMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:47:24.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImportRepository.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Infrastructure\\Repository\\ImportRepository.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Infrastructure\\Repository\\ImportRepository.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Infrastructure\\Repository\\ImportRepository.cs",
+              "RelativeToolTip": "Demo.QLTS.Infrastructure\\Repository\\ImportRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAewDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:35:22.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImportController.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Api\\Api\\ImportController.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Api\\Api\\ImportController.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Api\\Api\\ImportController.cs",
+              "RelativeToolTip": "Demo.QLTS.Api\\Api\\ImportController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAewDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:35:04.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.QLTS.Api\\appsettings.json",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Api\\appsettings.json",
+              "RelativeToolTip": "Demo.QLTS.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T14:44:39.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IImportService.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Interfaces\\Services\\IImportService.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Core\\Interfaces\\Services\\IImportService.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Interfaces\\Services\\IImportService.cs",
+              "RelativeToolTip": "Demo.QLTS.Core\\Interfaces\\Services\\IImportService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIBQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:47:58.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Interfaces\\Repository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Core\\Interfaces\\Repository\\IBaseRepository.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Interfaces\\Repository\\IBaseRepository.cs",
+              "RelativeToolTip": "Demo.QLTS.Core\\Interfaces\\Repository\\IBaseRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:47:46.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IImportRepository.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Interfaces\\Repository\\IImportRepository.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Core\\Interfaces\\Repository\\IImportRepository.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Interfaces\\Repository\\IImportRepository.cs",
+              "RelativeToolTip": "Demo.QLTS.Core\\Interfaces\\Repository\\IImportRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIBQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:47:51.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Interfaces\\Services\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Core\\Interfaces\\Services\\IBaseService.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Interfaces\\Services\\IBaseService.cs",
+              "RelativeToolTip": "Demo.QLTS.Core\\Interfaces\\Services\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:47:57.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Core\\Services\\BaseService.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Services\\BaseService.cs",
+              "RelativeToolTip": "Demo.QLTS.Core\\Services\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:48:10.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Api\\Startup.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Api\\Startup.cs",
+              "RelativeToolTip": "Demo.QLTS.Api\\Startup.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:47:11.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Api\\Program.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Api\\Program.cs",
+              "RelativeToolTip": "Demo.QLTS.Api\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:47:05.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DemoQLTSDatabaseSettings.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Entities\\DemoQLTSDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Core\\Entities\\DemoQLTSDatabaseSettings.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Entities\\DemoQLTSDatabaseSettings.cs",
+              "RelativeToolTip": "Demo.QLTS.Core\\Entities\\DemoQLTSDatabaseSettings.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:45:52.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QLTSAttribute.cs",
+              "DocumentMoniker": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Entities\\QLTSAttribute.cs",
+              "RelativeDocumentMoniker": "Demo.QLTS.Core\\Entities\\QLTSAttribute.cs",
+              "ToolTip": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Core\\Entities\\QLTSAttribute.cs",
+              "RelativeToolTip": "Demo.QLTS.Core\\Entities\\QLTSAttribute.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:35:54.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
