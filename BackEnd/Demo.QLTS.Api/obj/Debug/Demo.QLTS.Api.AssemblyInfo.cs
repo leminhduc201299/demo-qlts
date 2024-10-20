@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Demo.QLTS.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afaa00804b1ecc3d9d8b8da5d0a810f03c3513d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c34a82f5ba6f9393151ccc6c31570849f22e0286")]
 [assembly: System.Reflection.AssemblyProductAttribute("Demo.QLTS.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Demo.QLTS.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
